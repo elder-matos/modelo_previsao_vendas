@@ -3,7 +3,8 @@ Repositório para o projeto de um Modelo de Machine Learning de previsão de ven
 
 Para o desenvolvimento deste projeto de Machine Learning, foram utilizados alguns modelos de aprendizado de máquina para obter como resultado a previsão de vendas de água de coco.
 
-## Tecnologias Utilizadas
+## Pricinpais Ferramentas
+
 - *ChatGPT - Para criar a base de dados e um logo.*
 - *Azure Machine Learning (AML)*
 - *Azure ML Designer*
